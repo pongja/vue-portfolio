@@ -55,6 +55,7 @@ import { introText } from '@/constants';
     
         @media (max-width: 800px){
             justify-content: center;
+            margin-top: 30px;
         }
     
         .intro__title {

@@ -110,6 +110,6 @@ export const footerText = [
     {
         title: "github",
         desc: "별거없지만 깃허브에 오시면 코드를 보실수있습니다.",
-        link: "https://www.youtube.com/@Webstoryboy",
+        link: "https://github.com/pongja",
     },
 ];
